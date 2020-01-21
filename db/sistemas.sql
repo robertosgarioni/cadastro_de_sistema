@@ -1,11 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 4.6.5
 -- https://www.phpmyadmin.net/
---
--- Host: sistemas.fundacaostickel.org
--- Tempo de geração: 04/05/2017 às 12:57
--- Versão do servidor: 5.6.34-log
--- Versão do PHP: 7.1.0
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
